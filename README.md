@@ -10,4 +10,8 @@ MealMeter is a machine learning-driven framework that uses multimodal sensor dat
 <img width="900" alt="mealmeter" src="https://github.com/user-attachments/assets/d7f1e0d3-be75-4537-845b-40242d651a18">
 </p>
 
-The study involved 12 healthy adults in a controlled trial approved by associated IRB. Participants, free from metabolic or thyroid conditions, wore Dexcom G6 CGMs and Empatica E4 wristbands to monitor glucose, activity, and physiological signals across three 10-hour lab sessions. They consumed standardized meals (hypercaloric, eucaloric, or hypocaloric) aligned with dietary guidelines, with meal intake and activity closely monitored.
+The study involved 12 healthy adults in a controlled trial approved by associated IRB. Participants, free from metabolic or thyroid conditions, wore Dexcom G6 CGMs and Empatica E4 wristbands to monitor glucose, activity, and physiological signals across three 10-hour lab sessions. They consumed five standardized meals (hypercaloric, eucaloric, or hypocaloric) during each experiment day, adjusted with dietary guidelines, with activity closely monitored.
+
+<p align="center">
+<img width="700" alt="mealmeter" src="https://github.com/user-attachments/assets/b6fc9f04-dafc-4630-888e-d8b1a882a707">
+</p>
