@@ -16,4 +16,4 @@ The study involved 12 healthy adults in a controlled trial approved by associate
 <img width="700" alt="mealmeter" src="https://github.com/user-attachments/assets/b6fc9f04-dafc-4630-888e-d8b1a882a707">
 </p>
 
-For more details on data processing and model development, please read the paper at: '(https://arxiv.org/abs/2503.11683)'
+For more details on data processing and model development, please read the paper at: https://arxiv.org/abs/2503.11683
